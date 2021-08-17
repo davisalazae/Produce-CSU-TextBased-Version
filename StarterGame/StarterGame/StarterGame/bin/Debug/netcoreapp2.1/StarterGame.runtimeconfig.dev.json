@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Alaza\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Alaza\\.nuget\\packages"
+    ]
+  }
+}

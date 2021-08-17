@@ -1,0 +1,12 @@
+C:\Users\Alaza\source\repos\Alazae Davis- Produce CSU -A Rise to Stardom\StarterGame\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\ProduceCSU.deps.json
+C:\Users\Alaza\source\repos\Alazae Davis- Produce CSU -A Rise to Stardom\StarterGame\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\ProduceCSU.runtimeconfig.json
+C:\Users\Alaza\source\repos\Alazae Davis- Produce CSU -A Rise to Stardom\StarterGame\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\ProduceCSU.runtimeconfig.dev.json
+C:\Users\Alaza\source\repos\Alazae Davis- Produce CSU -A Rise to Stardom\StarterGame\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\ProduceCSU.dll
+C:\Users\Alaza\source\repos\Alazae Davis- Produce CSU -A Rise to Stardom\StarterGame\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\ProduceCSU.pdb
+C:\Users\Alaza\source\repos\Alazae Davis- Produce CSU -A Rise to Stardom\StarterGame\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\ProduceCSU.csprojAssemblyReference.cache
+C:\Users\Alaza\source\repos\Alazae Davis- Produce CSU -A Rise to Stardom\StarterGame\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\ProduceCSU.AssemblyInfoInputs.cache
+C:\Users\Alaza\source\repos\Alazae Davis- Produce CSU -A Rise to Stardom\StarterGame\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\ProduceCSU.AssemblyInfo.cs
+C:\Users\Alaza\source\repos\Alazae Davis- Produce CSU -A Rise to Stardom\StarterGame\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\ProduceCSU.dll
+C:\Users\Alaza\source\repos\Alazae Davis- Produce CSU -A Rise to Stardom\StarterGame\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\ProduceCSU.pdb
+C:\Users\Alaza\source\repos\Alazae Davis- Produce CSU -A Rise to Stardom\StarterGame\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\ProduceCSU.csproj.CoreCompileInputs.cache
+C:\Users\Alaza\source\repos\Alazae Davis- Produce CSU -A Rise to Stardom\StarterGame\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\ProduceCSU.genruntimeconfig.cache

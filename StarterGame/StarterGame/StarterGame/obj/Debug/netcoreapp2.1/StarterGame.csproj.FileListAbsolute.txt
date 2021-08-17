@@ -1,0 +1,31 @@
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.deps.json
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.runtimeconfig.json
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.runtimeconfig.dev.json
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.dll
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.pdb
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.csprojAssemblyReference.cache
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.AssemblyInfo.cs
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.dll
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.pdb
+H:\Courses2020\Spring01\StarterGame\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.deps.json
+H:\Courses2020\Spring01\StarterGame\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.runtimeconfig.json
+H:\Courses2020\Spring01\StarterGame\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.runtimeconfig.dev.json
+H:\Courses2020\Spring01\StarterGame\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.dll
+H:\Courses2020\Spring01\StarterGame\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.pdb
+H:\Courses2020\Spring01\StarterGame\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.csprojAssemblyReference.cache
+H:\Courses2020\Spring01\StarterGame\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.AssemblyInfoInputs.cache
+H:\Courses2020\Spring01\StarterGame\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.AssemblyInfo.cs
+H:\Courses2020\Spring01\StarterGame\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.dll
+H:\Courses2020\Spring01\StarterGame\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.pdb
+C:\Users\Alaza\source\repos\StarterGame\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.csprojAssemblyReference.cache
+C:\Users\Alaza\source\repos\StarterGame\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.AssemblyInfoInputs.cache
+C:\Users\Alaza\source\repos\StarterGame\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.AssemblyInfo.cs
+C:\Users\Alaza\source\repos\StarterGame\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.dll
+C:\Users\Alaza\source\repos\StarterGame\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.pdb
+C:\Users\Alaza\source\repos\StarterGame\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.deps.json
+C:\Users\Alaza\source\repos\StarterGame\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.runtimeconfig.json
+C:\Users\Alaza\source\repos\StarterGame\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.runtimeconfig.dev.json
+C:\Users\Alaza\source\repos\StarterGame\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.dll
+C:\Users\Alaza\source\repos\StarterGame\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.pdb
